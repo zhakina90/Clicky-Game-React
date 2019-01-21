@@ -3,6 +3,7 @@
 	margin: auto;
 	margin-top: 8%;
 	align-content: center;
+	background: rgba(128, 128, 128, 0.377);
 }
 .images-img {
 
@@ -15,4 +16,17 @@
 	width: 340px;
 	height: 360px;
 
+}
+p{
+	font-size: 60px;
+	margin-inline-start: 120px;
+	/* display: flex; */
+	/* position: fix ed; */
+}
+.display-score{
+/* position: relative; */
+background-color: rgb(72, 17, 122);
+width: 900px;
+height: 80px;
+margin-block-end: 50px;
 }

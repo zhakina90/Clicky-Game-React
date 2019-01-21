@@ -1,6 +1,10 @@
 .nav-bar{
     width: 100%;
     height: 100px;
+    background: #4713d4;
+    /* position: fixed; */
+  
+    
 }
 .logo{
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -16,4 +20,5 @@
 li{
     display: inline;
     margin-inline-start: 60px;
+    border-bottom-color: black;
 }

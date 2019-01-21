@@ -65,7 +65,7 @@ class Game extends React.Component {
         });
     };
 
-    shouldComponentUpdate = () => {
+    gameUpdate = () => {
         this.randomImages();
         this.scores();
         return true;
@@ -87,10 +87,13 @@ class Game extends React.Component {
     render() {
         return (
             <div className="Images">
-                <p>
-                    Score: {this.state.score}
-                    topScore: {this.state.topScore}
-                </p>
+                <div className="display-score">
+                    <p>
+                        Score: {this.state.score} |
+                    {"  "}
+                        Top Score: {this.state.topScore}
+                    </p>
+                </div>
                 {this.state.dataJson.map((data) => (
                     <div className='images-img' id={data.id} key={data.id}>
 
