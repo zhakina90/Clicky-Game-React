@@ -1,0 +1,19 @@
+.nav-bar{
+    width: 100%;
+    height: 100px;
+}
+.logo{
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: 50px;
+}
+.score ,
+.topScore,
+.middle {
+   font-size: 50px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+li{
+    display: inline;
+    margin-inline-start: 60px;
+}

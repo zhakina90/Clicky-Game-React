@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "image": "/assets/images/char-eevee.png"
+    },
+    {
+        "id": 2,
+        "image": "/assets/images/Pokemon6.png"
+    },
+    {
+        "id": 3,
+        "image": "/assets/images/pokemon3.png"
+    },
+    {
+        "id": 4,
+        "image": "/assets/images/Pokemon1.png"
+    },
+    {
+        "id": 5,
+        "image": "/assets/images/Pokemon2.png"
+    },
+    {
+        "id": 6,
+        "image": "/assets/images/Pokemon4.png"
+    },
+    {
+        "id": 7,
+        "image": "/assets/images/Pokemon5.png"
+    }
+]

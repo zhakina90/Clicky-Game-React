@@ -1,0 +1,18 @@
+.Images {
+	width: 90%;
+	margin: auto;
+	margin-top: 8%;
+	align-content: center;
+}
+.images-img {
+
+	display:inline-block;
+    margin: 10px;
+    
+} 
+
+.images {
+	width: 340px;
+	height: 360px;
+
+}
